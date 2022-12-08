@@ -9,3 +9,7 @@
 
 
 ## [3. 论说文](https://github.com/Larry-zx/English_writing/blob/master/论说文模版.md)
+
+
+
+## [4.翻译词汇](https://github.com/Larry-zx/English_writing/blob/master/翻译词汇.md)
